@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946795242276",
+    "project_id": "business-user-53ea7",
+    "storage_bucket": "business-user-53ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946795242276:android:ee442478594008a163c9b1",
+        "android_client_info": {
+          "package_name": "com.cite.visit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946795242276-0ko8oi7p98u2c5fvurflks376a323p67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABhZlmOrDPxYue_wdGezw9z8zirHjl_OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946795242276-0ko8oi7p98u2c5fvurflks376a323p67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
